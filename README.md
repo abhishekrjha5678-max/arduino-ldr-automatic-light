@@ -30,7 +30,7 @@ The Arduino reads the LDR voltage through the analog input and controls the LEDs
 
 ## Arduino Code
 
-The Arduino source code is available in `ldr-automatic-lights`.
+The Arduino source code is available in `ldr-automatic-lights.ino.ino`.
 
 ## Result
 
